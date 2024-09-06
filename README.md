@@ -134,4 +134,3 @@ The improved prompt is more effective because:
 
 Clarity: It specifies the exact topic—how AI is transforming healthcare—rather than leaving "technology" open to interpretation.
 Specificity: It identifies the three areas (diagnostics, personalized medicine, administrative efficiency) that should be covered, guiding the writer to focus on key points.
-Conciseness: The word limit (500 words) ensures that the response is focused and within a manageable scope, preventing unnecessary tangents or overly broad coverage.
